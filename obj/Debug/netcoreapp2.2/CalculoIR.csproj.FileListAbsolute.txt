@@ -1,0 +1,11 @@
+C:\Temp\CalculoIR\CalculoIR\bin\Debug\netcoreapp2.2\CalculoIR.deps.json
+C:\Temp\CalculoIR\CalculoIR\bin\Debug\netcoreapp2.2\CalculoIR.runtimeconfig.json
+C:\Temp\CalculoIR\CalculoIR\bin\Debug\netcoreapp2.2\CalculoIR.runtimeconfig.dev.json
+C:\Temp\CalculoIR\CalculoIR\bin\Debug\netcoreapp2.2\CalculoIR.dll
+C:\Temp\CalculoIR\CalculoIR\bin\Debug\netcoreapp2.2\CalculoIR.pdb
+C:\Temp\CalculoIR\CalculoIR\obj\Debug\netcoreapp2.2\CalculoIR.csprojAssemblyReference.cache
+C:\Temp\CalculoIR\CalculoIR\obj\Debug\netcoreapp2.2\CalculoIR.csproj.CoreCompileInputs.cache
+C:\Temp\CalculoIR\CalculoIR\obj\Debug\netcoreapp2.2\CalculoIR.AssemblyInfoInputs.cache
+C:\Temp\CalculoIR\CalculoIR\obj\Debug\netcoreapp2.2\CalculoIR.AssemblyInfo.cs
+C:\Temp\CalculoIR\CalculoIR\obj\Debug\netcoreapp2.2\CalculoIR.dll
+C:\Temp\CalculoIR\CalculoIR\obj\Debug\netcoreapp2.2\CalculoIR.pdb
